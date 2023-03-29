@@ -1,6 +1,6 @@
 # ChatGPT Clone using Next.js, Firebase, NextAuth, Typescript and Tailwind CSS
 
-Project is deployed [Here]()
+Project is deployed [Here](https://chat-gpt-clone-eosin.vercel.app/)
 
 This is a ChatGPT clone web application which is created by following Youtube Video [Tutorial](https://www.youtube.com/watch?v=V6Hq_EX2LLM) built with the following technologies:
 
